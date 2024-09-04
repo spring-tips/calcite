@@ -8,6 +8,9 @@ import org.springframework.jdbc.core.simple.JdbcClient;
 
 import javax.sql.DataSource;
 
+/**
+ * @author Josh Long
+ */
 @SpringBootApplication
 public class CalciteApplication {
 
