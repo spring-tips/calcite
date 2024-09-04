@@ -10,6 +10,8 @@ import javax.sql.DataSource;
 
 /**
  * @author Josh Long
+ * @author another, anonymous - but extra awesome author - author.
+ * 
  */
 @SpringBootApplication
 public class CalciteApplication {
